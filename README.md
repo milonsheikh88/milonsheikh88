@@ -1,6 +1,6 @@
 
-### Hi there, I'm Jesse - aka 👋
-## I'm a Husband, Father, Developer, and Teacher!!
+## Hi there, I'm Milon Sheikh👋
+# I'm a Software Developer!!
 
 - 🔭 I’m currently working on Flutter
 - 🌱 I’m currently learning Swift and iOS
