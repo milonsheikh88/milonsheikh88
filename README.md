@@ -3,6 +3,8 @@
 
 [![Years Badge](https://badges.pufler.dev/years/milonsheikh88)](https://badges.pufler.dev)
 
+[![Visits Badge](https://badges.pufler.dev/visits/puf17640/git-badges)](https://badges.pufler.dev)
+
 - 🔭 I’m currently working on Dart and Flutter
 - 🌱 I’m currently learning Swift and iOS
 - 👯 I’m looking to collaborate with other Developers
