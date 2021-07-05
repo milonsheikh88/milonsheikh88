@@ -1,5 +1,5 @@
-## Hi there, I'm Milon Sheikh 👋
-### I'm a Husband, Father, Developer, and Teacher!!
+<h1 align="center">Hi 👋, I'm Mariam</h1>
+<h3 align="center">A self-motivated tech enthusiast and a frontend developer</h3>
 
 - 🔭 I’m currently working on Flutter
 - 🌱 I’m currently learning Swift and iOS
