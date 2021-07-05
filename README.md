@@ -2,15 +2,14 @@
 <h1 align="center"> Hi there, I'm Milon Sheikh</h1>
 
 <p align="center">
+	
 	<a target="_blank" href="https://github.com/milonsheikh88">
-	<img src="https://badges.pufler.dev/visits/milonsheikh88" alt="Years" width="70" />
-	</a>&nbsp;&nbsp;
-	<a target="_blank" href="https://github.com/milonsheikh88">
-	<img src="https://badges.pufler.dev/years/milonsheikh88" alt="Views" width="70" />
+	<img src="https://badges.pufler.dev/years/milonsheikh88?color=blue" alt="Years" width="70" />
 	</a>&nbsp;&nbsp;
 	<a target="_blank" href="https://github.com/milonsheikh88">
 	<img src="https://badges.pufler.dev/repos/milonsheikh88?color=blue" alt="Repos" width="80" />
 	</a>&nbsp;&nbsp;
+	
 </p>
 
 - 🔭 I’m currently working on Dart and Flutter
