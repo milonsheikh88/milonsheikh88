@@ -1,5 +1,6 @@
-<h1 align="center">Hi 👋, I'm Mariam</h1>
-<h3 align="center">A self-motivated tech enthusiast and a frontend developer</h3>
+
+### Hi there, I'm Jesse - aka 👋
+## I'm a Husband, Father, Developer, and Teacher!!
 
 - 🔭 I’m currently working on Flutter
 - 🌱 I’m currently learning Swift and iOS
