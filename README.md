@@ -44,13 +44,25 @@ width="40" height="30"/>
 </a>&nbsp;
   
 <a href="https://getbootstrap.com" target="_blank"> 
-<img src="https://github.com/milonsheikh88/milonsheikh88/blob/main/Profile-Readme/programming%20languages/dart.svg" alt="Android" width="40" height="40"/>
+<img src="https://github.com/milonsheikh88/milonsheikh88/blob/main/Profile-Readme/programming%20languages/dart.svg" alt="Dart" width="40" height="40"/>
 </a>&nbsp;
   
 <a href="https://getbootstrap.com" target="_blank"> 
-<img src="https://github.com/milonsheikh88/milonsheikh88/blob/main/Profile-Readme/programming%20languages/flutter.svg" alt="Android" width="40" height="40"/>
+<img src="https://github.com/milonsheikh88/milonsheikh88/blob/main/Profile-Readme/programming%20languages/flutter.svg" alt="Flutter" width="40" height="40"/>
 </a>&nbsp;
   
+<a href="https://getbootstrap.com" target="_blank"> 
+<img src="https://github.com/milonsheikh88/milonsheikh88/blob/main/Profile-Readme/programming%20languages/swift.svg" alt="Swift" width="40" height="40"/>
+</a>&nbsp;
+  
+<a href="https://getbootstrap.com" target="_blank"> 
+<img src="https://github.com/milonsheikh88/milonsheikh88/blob/main/Profile-Readme/ides/android-studio.svg" alt="Android Studio" width="40" height="40"/>
+</a>&nbsp;
+  
+<a href="https://getbootstrap.com" target="_blank"> 
+<img src="https://github.com/milonsheikh88/milonsheikh88/blob/main/Profile-Readme/ides/eclipse.svg" alt="Android Studio" width="40" height="40"/>
+</a>&nbsp;
+
 
 </p>
 
