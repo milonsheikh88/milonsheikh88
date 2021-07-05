@@ -35,44 +35,44 @@ width="40" height="30"/>
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
   
-<a href="https://getbootstrap.com" target="_blank"> 
+<a href="https://java.com/en" target="_blank"> 
 <img src="https://github.com/milonsheikh88/milonsheikh88/blob/main/Profile-Readme/programming%20languages/java.svg" alt="Java" width="40" height="40"/>
 </a>&nbsp;
   
-<a href="https://getbootstrap.com" target="_blank"> 
+<a href="https://www.android.com" target="_blank"> 
 <img src="https://github.com/milonsheikh88/milonsheikh88/blob/main/Profile-Readme/programming%20languages/android.svg" alt="Android" width="40" height="40"/>
 </a>&nbsp;
   
-<a href="https://getbootstrap.com" target="_blank"> 
+<a href="https://dart.dev" target="_blank"> 
 <img src="https://github.com/milonsheikh88/milonsheikh88/blob/main/Profile-Readme/programming%20languages/dart.svg" alt="Dart" width="40" height="40"/>
 </a>&nbsp;
   
-<a href="https://getbootstrap.com" target="_blank"> 
+<a href="https://flutter.dev" target="_blank"> 
 <img src="https://github.com/milonsheikh88/milonsheikh88/blob/main/Profile-Readme/programming%20languages/flutter.svg" alt="Flutter" width="40" height="40"/>
 </a>&nbsp;
   
-<a href="https://getbootstrap.com" target="_blank"> 
+<a href="https://swift.org" target="_blank"> 
 <img src="https://github.com/milonsheikh88/milonsheikh88/blob/main/Profile-Readme/programming%20languages/swift.svg" alt="Swift" width="40" height="40"/>
 </a>&nbsp;
   
-<a href="https://getbootstrap.com" target="_blank"> 
+<a href="https://developer.android.com/studio" target="_blank"> 
 <img src="https://github.com/milonsheikh88/milonsheikh88/blob/main/Profile-Readme/ides/android-studio.svg" alt="Android Studio" width="40" height="40"/>
 </a>&nbsp;
   
-<a href="https://getbootstrap.com" target="_blank"> 
+<a href="https://www.eclipse.org" target="_blank"> 
 <img src="https://github.com/milonsheikh88/milonsheikh88/blob/main/Profile-Readme/ides/eclipse.svg" alt="Eclipse" width="40" height="40"/>
 </a>&nbsp;
 
-<a href="https://getbootstrap.com" target="_blank"> 
+<a href="https://netbeans.apache.org" target="_blank"> 
 <img src="https://github.com/milonsheikh88/milonsheikh88/blob/main/Profile-Readme/ides/netbeans.svg" alt="Netbeans" width="40" height="40"/>
 </a>&nbsp;
   
-<a href="https://getbootstrap.com" target="_blank"> 
-<img src="https://github.com/milonsheikh88/milonsheikh88/blob/main/Profile-Readme/others/git.svg" alt="Netbeans" width="40" height="40"/>
+<a href="https://git-scm.com" target="_blank"> 
+<img src="https://github.com/milonsheikh88/milonsheikh88/blob/main/Profile-Readme/others/git.svg" alt="Git" width="40" height="40"/>
 </a>&nbsp;
   
-<a href="https://getbootstrap.com" target="_blank"> 
-<img src="https://github.com/milonsheikh88/milonsheikh88/blob/main/Profile-Readme/others/github.svg" alt="Netbeans" width="40" height="40"/>
+<a href="https://github.com" target="_blank"> 
+<img src="https://github.com/milonsheikh88/milonsheikh88/blob/main/Profile-Readme/others/github.svg" alt="Github" width="40" height="40"/>
 </a>&nbsp;
 
 </p>
