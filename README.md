@@ -23,8 +23,10 @@ width="40" height="30"/>
 ### Languages and Tools:
 <p align="left">
   
-<a href="https://azure.microsoft.com/en-in/" target="_blank"> 
-<img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="30"/> 
-</a>  
+<a href="https://www.linkedin.com/in/milon-sheikh-007/" target="_blank">
+<img alt="Java" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/java.svg"
+width="50" height="40"/> 
+</a> 
+  
 </p>
 
