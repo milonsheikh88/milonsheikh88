@@ -2,12 +2,12 @@
 <h1 align="center"> Hi there, I'm Milon Sheikh</h1>
 
 <p align="center">
-	<a target="_blank" href="https://github.com/milonsheikh88">
-  <img src="https://badges.pufler.dev/years/milonsheikh88?color=blue" alt="Yuri Github Years" width="70" /></a>&nbsp;&nbsp;
-	<a target="_blank" href="https://github.com/milonsheikh88">
-  <img src="https://badges.pufler.dev/visits/puf17640/git-badges" alt="Yuri Github Years" width="120" /></a>&nbsp;&nbsp;
-	<a target="_blank" href="https://github.com/milonsheikh88">
-  <img src="https://badges.pufler.dev/repos/milonsheikh88?color=blue" alt="Yuri Github Repos" width="80" /></a>&nbsp;&nbsp;
+<a target="_blank" href="https://github.com/milonsheikh88">
+<img src="https://badges.pufler.dev/years/milonsheikh88?color=blue" alt="Years" width="80" /></a>&nbsp;&nbsp;
+<a target="_blank" href="https://github.com/milonsheikh88">
+<img src="https://badges.pufler.dev/visits/puf17640" alt="visits" width="80" /></a>&nbsp;&nbsp;
+<a target="_blank" href="https://github.com/milonsheikh88">
+<img src="https://badges.pufler.dev/repos/milonsheikh88?color=blue" alt="Repos" width="80" /></a>&nbsp;&nbsp;
 </p>
 
 
