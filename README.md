@@ -5,10 +5,7 @@
 	
 	<a target="_blank" href="https://github.com/milonsheikh88">
 	<img src="https://badges.pufler.dev/years/milonsheikh88?color=blue" alt="Years" width="70" />
-	</a>&nbsp;&nbsp;
-	<a target="_blank" href="https://github.com/milonsheikh88">
-	<img src="https://badges.pufler.dev/repos/milonsheikh88?color=blue" alt="Repos" width="80" />
-	</a>&nbsp;&nbsp;
+	</a>
 	
 </p>
 
