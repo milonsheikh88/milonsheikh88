@@ -36,15 +36,15 @@ width="40" height="30"/>
 <p align="left">
   
 <a href="https://getbootstrap.com" target="_blank"> 
-<img src="https://github.com/milonsheikh88/milonsheikh88/blob/main/icons/java.svg" alt="Java" width="40" height="40"/>
+<img src="https://github.com/milonsheikh88/milonsheikh88/blob/main/Profile-Readme/programming%20languages/java.svg" alt="Java" width="40" height="40"/>
 </a>&nbsp;
   
 <a href="https://getbootstrap.com" target="_blank"> 
-<img src="https://github.com/milonsheikh88/milonsheikh88/blob/main/icons/android.svg" alt="Android" width="40" height="40"/>
+<img src="https://github.com/milonsheikh88/milonsheikh88/blob/main/Profile-Readme/programming%20languages/android.svg" alt="Android" width="40" height="40"/>
 </a>&nbsp;
   
 <a href="https://getbootstrap.com" target="_blank"> 
-<img src="https://github.com/milonsheikh88/milonsheikh88/blob/main/icons/dart.svg" alt="Android" width="40" height="40"/>
+<img src="https://github.com/milonsheikh88/milonsheikh88/blob/main/Profile-Readme/programming%20languages/dart.svg" alt="Android" width="40" height="40"/>
 </a>&nbsp;
   
   
