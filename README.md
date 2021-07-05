@@ -17,7 +17,7 @@
 - 🌱 I’m currently learning Swift and iOS
 - 👯 I’m looking to collaborate with other Developers
 
-### Connect with me:
+<h3 align="left">Connect with me:</h3>
 <p align="left">
   
 <a href="https://twitter.com/M_Sheikh007/" target="_blank">
@@ -31,3 +31,13 @@ width="40" height="30"/>
 </a> 
 
 </p>
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left">
+  
+<a href="https://getbootstrap.com" target="_blank"> 
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="30"/>
+</a>
+
+</p>
+
