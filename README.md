@@ -1,7 +1,7 @@
 
 <h1 align="center"> Hi there, I'm Milon Sheikh</h1>
 
-<h2 align="center">I'm a Husband, Father, Developer, and Teacher!!</h1>
+<h2 align="center">I'm a Software Developer</h1>
 
 <p align="center">
 <a target="_blank" href="https://github.com/milonsheikh88">
@@ -11,8 +11,6 @@
 <a target="_blank" href="https://github.com/milonsheikh88">
 <img src="https://badges.pufler.dev/repos/milonsheikh88?color=blue" alt="Yuri Github Repos" width="80" /></a>&nbsp;&nbsp;
 </p>
-
-### I am a passionate developer, that has the desire to sharp your current skills and master the most important programming languages.
 
 ---
 - 🔭 I’m currently working on Dart and Flutter
