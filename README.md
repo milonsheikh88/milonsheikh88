@@ -5,7 +5,7 @@
 <a target="_blank" href="https://github.com/milonsheikh88">
 <img src="https://badges.pufler.dev/years/milonsheikh88?color=blue" alt="Years" width="80" /></a>&nbsp;&nbsp;
 <a target="_blank" href="https://github.com/milonsheikh88">
-<img src="https://badges.pufler.dev/visits/puf17640" alt="visits" width="80" /></a>&nbsp;&nbsp;
+<img src="https://badges.pufler.dev/visits/puf17640?color=blue/git-badges" alt="visits" width="80" /></a>&nbsp;&nbsp;
 <a target="_blank" href="https://github.com/milonsheikh88">
 <img src="https://badges.pufler.dev/repos/milonsheikh88?color=blue" alt="Repos" width="80" /></a>&nbsp;&nbsp;
 </p>
