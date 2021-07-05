@@ -10,9 +10,6 @@
 <img src="https://badges.pufler.dev/repos/milonsheikh88?color=blue" alt="Yuri Github Repos" width="80" /></a>&nbsp;&nbsp;
 </p>
 
-<h2 align="center"> ABOUT ME - 🦅 </h2>
-
-
 ### I am a passionate developer, that has the desire to sharp your current skills and master the most important programming languages.
 
 ---
