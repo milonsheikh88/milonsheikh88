@@ -9,16 +9,12 @@
 ### Connect with me:
 <p align="left">
   
-<a href="https://twitter.com/M_Sheikh007/" target="_blank">
+<a href="https://twitter.com/M_Sheikh007" target="_blank">
 <img alt="Milon | Twitter" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg""
 width="40" height="30"/> 
 </a> 
 </p>
-
-[<img align="left" alt="Milon | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="Milon | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-<br />
-
+                      
 ### Languages and Tools:
 <p align="left">
   
