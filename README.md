@@ -9,7 +9,8 @@
 ### Connect with me:
 <p align="left">
   
-<a href="https://twitter.com/M_Sheikh007/" target="_blank"> <img alt="Milon | Twitter" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg""
+<a href="https://twitter.com/M_Sheikh007/" target="_blank">
+<img alt="Milon | Twitter" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg""
 width="40" height="30"/> 
 </a> 
 </p>
@@ -21,8 +22,9 @@ width="40" height="30"/>
 ### Languages and Tools:
 <p align="left">
   
-<a href="https://azure.microsoft.com/en-in/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="30"/> 
-  
+<a href="https://azure.microsoft.com/en-in/" target="_blank"> 
+<img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="30"/> 
+</a>  
 </p>
 
 [twitter]: https://twitter.com/M_Sheikh007
