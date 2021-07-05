@@ -12,5 +12,5 @@
 [<img align="left" alt="Milon | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 <br />
 
-[twitter]: https://www.linkedin.com/in/milon-sheikh-007/
-[linkedin]: https://twitter.com/M_Sheikh007
+[twitter]: https://twitter.com/M_Sheikh007
+[linkedin]: https://www.linkedin.com/in/milon-sheikh-007/
