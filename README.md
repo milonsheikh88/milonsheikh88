@@ -1,9 +1,15 @@
 
 <h1 align="center"> Hi there, I'm Milon Sheikh</h1>
 
-[![Years Badge](https://badges.pufler.dev/years/milonsheikh88)](https://badges.pufler.dev)
+<p align="center">
+	<a target="_blank" href="https://github.com/milonsheikh88">
+  <img src="https://badges.pufler.dev/years/milonsheikh88?color=blue" alt="Yuri Github Years" width="70" /></a>&nbsp;&nbsp;
+	<a target="_blank" href="https://github.com/milonsheikh88">
+  <img src="https://badges.pufler.dev/visits/puf17640/git-badges" alt="Yuri Github Years" width="120" /></a>&nbsp;&nbsp;
+	<a target="_blank" href="https://github.com/milonsheikh88">
+  <img src="https://badges.pufler.dev/repos/milonsheikh88?color=blue" alt="Yuri Github Repos" width="80" /></a>&nbsp;&nbsp;
+</p>
 
-[![Visits Badge](https://badges.pufler.dev/visits/milonsheikh88/git-badges)](https://badges.pufler.dev)
 
 
 - 🔭 I’m currently working on Dart and Flutter
