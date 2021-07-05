@@ -1,9 +1,9 @@
-### Hi there 👋
+<h1 align="center">Hi 👋, I'm Mariam</h1>
+<h3 align="center">A self-motivated tech enthusiast and a software developer</h3>
 
-<!--
-**milonsheikh88/milonsheikh88** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 💬 Ask me about **anything !**
 
-Here are some ideas to get you started:
+</br>
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
