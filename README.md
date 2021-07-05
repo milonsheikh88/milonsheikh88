@@ -66,6 +66,14 @@ width="40" height="30"/>
 <a href="https://getbootstrap.com" target="_blank"> 
 <img src="https://github.com/milonsheikh88/milonsheikh88/blob/main/Profile-Readme/ides/netbeans.svg" alt="Netbeans" width="40" height="40"/>
 </a>&nbsp;
+  
+<a href="https://getbootstrap.com" target="_blank"> 
+<img src="https://github.com/milonsheikh88/milonsheikh88/blob/main/Profile-Readme/others/git.svg" alt="Netbeans" width="40" height="40"/>
+</a>&nbsp;
+  
+<a href="https://getbootstrap.com" target="_blank"> 
+<img src="https://github.com/milonsheikh88/milonsheikh88/blob/main/Profile-Readme/others/github.svg" alt="Netbeans" width="40" height="40"/>
+</a>&nbsp;
 
 </p>
 
