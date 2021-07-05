@@ -23,7 +23,7 @@ width="40" height="30"/>
 </a> 
                       
 <a href="https://www.linkedin.com/in/milon-sheikh-007/" target="_blank">
-<img alt="Milon | Linkedin" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"
+<img alt="Milon | Linkedin" src="https://github.com/milonsheikh88/milonsheikh88/blob/main/icons/linkedin.png"
 width="40" height="30"/> 
 </a> 
 </p>
