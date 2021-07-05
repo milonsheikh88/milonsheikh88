@@ -21,7 +21,7 @@
 <p align="left">
   
 <a href="https://twitter.com/M_Sheikh007/" target="_blank">
-<img alt="Milon | Twitter" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/099dc12b59179d07d534069bc8551718f786d91a/images/svg/twitter.svg"
+<img alt="Milon | Twitter" src="https://github.com/milonsheikh88/milonsheikh88/blob/main/icons/twitter.png"
 width="40" height="30"/> 
 </a> 
                       
