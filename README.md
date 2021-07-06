@@ -63,6 +63,18 @@ width="40" height="30"/>
 <img src="https://github.com/milonsheikh88/milonsheikh88/blob/main/Profile-Readme/others/xml.svg" alt="XML" width="40" height="40"/>
 </a>&nbsp;
   
+<a href="https://www.mysql.com" target="_blank"> 
+<img src="https://github.com/milonsheikh88/milonsheikh88/blob/main/Profile-Readme/databases/mysql.svg" alt="Mysql" width="40" height="40"/>
+</a>&nbsp;
+  
+<a href="https://www.oracle.com/database" target="_blank"> 
+<img src="https://github.com/milonsheikh88/milonsheikh88/blob/main/Profile-Readme/databases/oracle.svg" alt="Oracle" width="40" height="40"/>
+</a>&nbsp;
+  
+ <a href="https://www.sqlite.org/index.html" target="_blank"> 
+<img src="https://github.com/milonsheikh88/milonsheikh88/blob/main/Profile-Readme/databases/sqlite.svg" alt="Sqlite" width="40" height="40"/>
+</a>&nbsp;
+  
 <a href="https://netbeans.apache.org" target="_blank"> 
 <img src="https://github.com/milonsheikh88/milonsheikh88/blob/main/Profile-Readme/ides/netbeans.svg" alt="Netbeans" width="40" height="40"/>
 </a>&nbsp;
