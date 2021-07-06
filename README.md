@@ -63,17 +63,16 @@ width="40" height="30"/>
 <img src="https://github.com/milonsheikh88/milonsheikh88/blob/main/Profile-Readme/others/xml.svg" alt="XML" width="40" height="40"/>
 </a>&nbsp;
   
-  
-<a href="https://developer.android.com/studio" target="_blank"> 
-<img src="https://github.com/milonsheikh88/milonsheikh88/blob/main/Profile-Readme/ides/android-studio.svg" alt="Android Studio" width="40" height="40"/>
+<a href="https://netbeans.apache.org" target="_blank"> 
+<img src="https://github.com/milonsheikh88/milonsheikh88/blob/main/Profile-Readme/ides/netbeans.svg" alt="Netbeans" width="40" height="40"/>
 </a>&nbsp;
   
 <a href="https://www.eclipse.org" target="_blank"> 
 <img src="https://github.com/milonsheikh88/milonsheikh88/blob/main/Profile-Readme/ides/eclipse.svg" alt="Eclipse" width="40" height="40"/>
 </a>&nbsp;
-
-<a href="https://netbeans.apache.org" target="_blank"> 
-<img src="https://github.com/milonsheikh88/milonsheikh88/blob/main/Profile-Readme/ides/netbeans.svg" alt="Netbeans" width="40" height="40"/>
+  
+<a href="https://developer.android.com/studio" target="_blank"> 
+<img src="https://github.com/milonsheikh88/milonsheikh88/blob/main/Profile-Readme/ides/android-studio.svg" alt="Android Studio" width="40" height="40"/>
 </a>&nbsp;
   
 <a href="https://git-scm.com" target="_blank"> 
