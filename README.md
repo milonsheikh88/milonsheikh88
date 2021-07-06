@@ -68,7 +68,7 @@ width="40" height="30"/>
 </a>&nbsp;
   
 <a href="https://www.oracle.com/database" target="_blank"> 
-<img src="https://github.com/milonsheikh88/milonsheikh88/blob/main/Profile-Readme/databases/oracle.svg" alt="Oracle" width="40" height="40"/>
+<img src="https://github.com/milonsheikh88/milonsheikh88/blob/main/Profile-Readme/databases/oracle.svg" alt="racle" width="40" height="40"/>
 </a>&nbsp;
   
  <a href="https://www.sqlite.org/index.html" target="_blank"> 
