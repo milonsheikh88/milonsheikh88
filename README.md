@@ -55,6 +55,15 @@ width="40" height="30"/>
 <img src="https://github.com/milonsheikh88/milonsheikh88/blob/main/Profile-Readme/programming%20languages/swift.svg" alt="Swift" width="40" height="40"/>
 </a>&nbsp;
   
+<a href="https://www.json.org/json-en.html" target="_blank"> 
+<img src="https://github.com/milonsheikh88/milonsheikh88/blob/main/Profile-Readme/others/json.svg" alt="Json" width="40" height="40"/>
+</a>&nbsp;
+
+<a href="https://www.xml.com" target="_blank"> 
+<img src="https://github.com/milonsheikh88/milonsheikh88/blob/main/Profile-Readme/others/xml.svg" alt="XML" width="40" height="40"/>
+</a>&nbsp;
+  
+  
 <a href="https://developer.android.com/studio" target="_blank"> 
 <img src="https://github.com/milonsheikh88/milonsheikh88/blob/main/Profile-Readme/ides/android-studio.svg" alt="Android Studio" width="40" height="40"/>
 </a>&nbsp;
