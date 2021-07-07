@@ -5,8 +5,9 @@
 
 <p align="center">
 
-<img src="https://komarev.com/ghpvc/?username=milonsheikh88&color=blue" alt="V" width="120" /></a>&nbsp;&nbsp;
-
+<a>
+<img src="https://komarev.com/ghpvc/?username=milonsheikh88&color=blue" alt="Profile views" width="120" />
+</a>
 </p>
 
 ---
