@@ -12,7 +12,7 @@
 
 ---
 - 🔭 I’m currently working on Dart and Flutter
-- 🌱 I’m currently learning Swift and iOS
+- 🌱 I’m currently learning Spring Framework
 - 👯 I’m looking to collaborate with other Developers
 
 <h3 align="left">Connect with me:</h3>
