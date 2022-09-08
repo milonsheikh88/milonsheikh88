@@ -48,11 +48,7 @@ width="40" height="30"/>
 <a href="https://flutter.dev" target="_blank"> 
 <img src="https://github.com/milonsheikh88/milonsheikh88/blob/main/Profile-Readme/programming%20languages/flutter.svg" alt="Flutter" width="40" height="40"/>
 </a>&nbsp;
-  
-<a href="https://swift.org" target="_blank"> 
-<img src="https://github.com/milonsheikh88/milonsheikh88/blob/main/Profile-Readme/programming%20languages/swift.svg" alt="Swift" width="40" height="40"/>
-</a>&nbsp;
-  
+
 <a href="https://spring.io/projects/spring-framework" target="_blank"> 
 <img src="https://github.com/milonsheikh88/milonsheikh88/blob/main/Profile-Readme/frameworks/spring.svg" alt="Spring" width="40" height="40"/>
 </a>&nbsp;
@@ -97,11 +93,7 @@ width="40" height="30"/>
 <a href="https://developer.android.com/studio" target="_blank"> 
 <img src="https://github.com/milonsheikh88/milonsheikh88/blob/main/Profile-Readme/ides/android-studio.svg" alt="Android Studio" width="40" height="40"/>
 </a>&nbsp;
-  
-<a href="https://developer.apple.com/xcode" target="_blank"> 
-<img src="https://github.com/milonsheikh88/milonsheikh88/blob/main/Profile-Readme/ides/xcode.svg" alt="Xcode" width="40" height="40"/>
-</a>&nbsp;
-  
+
 <a href="https://git-scm.com" target="_blank"> 
 <img src="https://github.com/milonsheikh88/milonsheikh88/blob/main/Profile-Readme/others/git.svg" alt="Git" width="40" height="40"/>
 </a>&nbsp;
