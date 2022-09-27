@@ -1,7 +1,7 @@
 
 <h1 align="center"> Hi there, I'm Milon Sheikh</h1>
 
-<h2 align="center">I'm a Software Developer</h1>
+<h2 align="center">I'm a Software Enginee</h1>
 
 <p align="center">
 
