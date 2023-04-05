@@ -52,39 +52,5 @@ width="40" height="30"/>
 <a href="https://spring.io/projects/spring-framework" target="_blank"> 
 <img src="https://github.com/milonsheikh88/milonsheikh88/blob/main/Profile-Readme/frameworks/spring.svg" alt="Spring" width="40" height="40"/>
 </a>&nbsp;
-  
-<a href="https://www.json.org/json-en.html" target="_blank"> 
-<img src="https://github.com/milonsheikh88/milonsheikh88/blob/main/Profile-Readme/others/json.svg" alt="Json" width="40" height="40"/>
-</a>&nbsp;
-
-<a href="https://www.xml.com" target="_blank"> 
-<img src="https://github.com/milonsheikh88/milonsheikh88/blob/main/Profile-Readme/others/xml.svg" alt="XML" width="40" height="40"/>
-</a>&nbsp;
-  
-<a href="https://www.mysql.com" target="_blank"> 
-<img src="https://github.com/milonsheikh88/milonsheikh88/blob/main/Profile-Readme/databases/mysql.svg" alt="Mysql" width="40" height="40"/>
-</a>&nbsp;
-  
-<a href="https://www.oracle.com/database" target="_blank"> 
-<img src="https://github.com/milonsheikh88/milonsheikh88/blob/main/Profile-Readme/databases/oracle.svg" alt="Oracle" width="40" height="40"/>
-</a>&nbsp;
-  
-<a href="https://www.sqlite.org/index.html" target="_blank"> 
-<img src="https://github.com/milonsheikh88/milonsheikh88/blob/main/Profile-Readme/databases/sqlite.svg" alt="Sqlite" width="40" height="40"/>
-</a>&nbsp;
-  
-<a href="https://hibernate.org" target="_blank"> 
-<img src="https://github.com/milonsheikh88/milonsheikh88/blob/main/Profile-Readme/databases/hibernate.svg" alt="Hibernate" width="40" height="40"/>
-</a>&nbsp;
-
-<a href="https://netbeans.apache.org" target="_blank"> 
-<img src="https://github.com/milonsheikh88/milonsheikh88/blob/main/Profile-Readme/ides/netbeans.svg" alt="Netbeans" width="40" height="40"/>
-</a>&nbsp;
-
-  
-<a href="https://developer.android.com/studio" target="_blank"> 
-<img src="https://github.com/milonsheikh88/milonsheikh88/blob/main/Profile-Readme/ides/android-studio.svg" alt="Android Studio" width="40" height="40"/>
-</a>&nbsp;
-
 </p>
 
