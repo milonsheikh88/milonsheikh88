@@ -11,9 +11,8 @@
 </p>
 
 ---
-- 🔭 I’m currently working on Dart and Flutter
-- 🌱 I’m currently learning Spring Framework
-- 👯 I’m looking to collaborate with other Developers
+- 🔭 I’m currently working on Java, Dart and Flutter.
+- 👯 I’m looking to collaborate with other Developers.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
